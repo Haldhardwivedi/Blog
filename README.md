@@ -4,5 +4,7 @@
 ![login](login.png)
 ## Compose
 ![compose](compose.png)
-## article
+## Article
 ![article](article.png)
+## Home
+![Home](home.png)
