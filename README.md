@@ -1,4 +1,6 @@
 # Blog
+to run the application locally clone the repo
+then run node app.js 
 
 ## Login :
 ![login](login.png)
