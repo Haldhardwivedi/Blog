@@ -1,5 +1,5 @@
 # Blog
-to run the application locally clone the repo
+to run the application locally clone the repo and 
 then run node app.js 
 
 ## Login :
