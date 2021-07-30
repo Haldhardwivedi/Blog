@@ -1,12 +1,14 @@
 # Blog
-to run the application locally clone the repo and 
-then run node app.js 
+### Table of contents
 
-## Login :
+* [Functionalities](#functionalities)
+* [Technical Details](#technical-details)
+### Functionalities
+* Login :
 ![login](login.png)
-## Compose
+*Compose
 ![compose](compose.png)
-## Article
+* A dedicated page for each Article 
 ![article](article.png)
-## Home
+* Home
 ![Home](home.png)
