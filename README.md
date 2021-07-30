@@ -2,7 +2,6 @@
 ### Table of contents
 
 * [Functionalities](#functionalities)
-* [Technical Details](#technical-details)
 * [Contributing](#Contributing)
 ### Functionalities
 * Login :
