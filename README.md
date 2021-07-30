@@ -6,7 +6,7 @@
 ### Functionalities
 * Login :
 ![login](login.png)
-*Compose
+* Compose
 ![compose](compose.png)
 * A dedicated page for each Article 
 ![article](article.png)
