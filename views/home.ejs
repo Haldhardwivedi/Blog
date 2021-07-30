@@ -1,0 +1,13 @@
+<%- include('header')  -%> 
+
+<% articles.forEach(function(article){%>
+    <div class="card">
+        <h5 class="card-header"><%= article.title %></h5>
+        <div class="card-body">
+          <p class="card-text"><%=article.content.substring(0, 100) + " ..."%></p>
+          <a href="/articles/<%=article.title%>" class="btn btn-secondary">Continue reading</a>
+        </div>
+      </div>
+<% })%>
+
+<%- include('footer')  -%> 

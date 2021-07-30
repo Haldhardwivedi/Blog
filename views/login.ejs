@@ -1,0 +1,17 @@
+<%- include("header")  -%>
+
+<div class="form text-center">
+    <form action="/login" method="post">
+        <div class="form-group">
+          <label for="exampleInputEmail1">Email address</label>
+          <input name="admemail" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">Password</label>
+          <input name="admpassword" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+<%- include("footer")  -%>
